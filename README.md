@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VibhakaraAcharya
+- 👋 Hi, I’m @Vi
 - 👀 I’m interested in Programming, Mathematics and Quantum Mechanics
-- 🌱 I’m currently learning JavaScript, C#, Python
-- 💞️ I’m looking to collaborate on Quantum Computing projects.
-- 📫 reach me @ vibhakara.acharya@gmail.com
+- 🌱 I’m currently learning Rust, Distrubuted Compute & Cybersecurity
+- 💞️ I’m looking to collaborate on data privacy projects.
+- 📫 reach me @ vi@sagemode.dev
 
 <!---
 VibhakaraAcharya/VibhakaraAcharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
